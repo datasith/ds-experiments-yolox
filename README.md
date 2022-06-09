@@ -28,10 +28,10 @@ YOLOx models on custom data.
   </tr>
   
   <tr>
-    <td class="tg-yw4l">Demo SKU110K</td>
-    <td class="tg-yw4l"><a href="https://www.kaggle.com/datasets/thedatasith/sku110k-annotations">SKU110K</a></td>    
-    <td class="tg-yw4l">Densely packed images of objects on shelves</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Intro_Computational_Graphs.ipynb">
+    <td class="tg-yw4l">Demo COTS (Kaggle)</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data">SKU110K</a></td>    
+    <td class="tg-yw4l">Detect starfish in real-time by training a model on underwater videos of coral reefs</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ds-experiments-yolox/blob/main/demo_kaggle_cots.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>
@@ -44,7 +44,7 @@ YOLOx models on custom data.
 
 I'm using a few datasets to train on. This list will be updated with each added one.
 
-- SKU110K
+- COTS (coral-eating crown-of-thorns starfish [COTS])
 
 ---
 
