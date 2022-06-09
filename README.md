@@ -16,7 +16,7 @@ Alternatively, use the links provided below to open them in Google Colab.
 
 ## Training on Custom Data
 
-All the notebooks in this repo make use of the @Megvii-BaseDetection scripts for training 
+All the notebooks in this repo make use of the <a href="https://github.com/Megvii-BaseDetection">@Megvii-BaseDetection</a> scripts for training 
 YOLOx models on custom data.
 
 <table class="tg">
