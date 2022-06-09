@@ -29,7 +29,7 @@ YOLOx models on custom data.
   
   <tr>
     <td class="tg-yw4l">Demo COTS (Kaggle)</td>
-    <td class="tg-yw4l"><a href="https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data">SKU110K</a></td>    
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data">COTS</a></td>    
     <td class="tg-yw4l">Detect starfish in real-time by training a model on underwater videos of coral reefs</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ds-experiments-yolox/blob/main/demo_kaggle_cots.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
