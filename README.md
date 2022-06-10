@@ -1,10 +1,10 @@
-# Object Detection with YOLOx
+# Object Detection with YOLOX
 
 ## Getting Started
 
 Clone this repo and install `requirements.txt` in a `Python>=3.7.0` environment, 
 including `PyTorch>=1.7`. The models and datasets download automatically from the
-latest YOLOx release.
+latest YOLOX release.
 
 ```bash
 git clone https://github.com/datasith/ds-experiments-yolox
@@ -19,7 +19,7 @@ Alternatively, use the links provided below to open them in **Google Colab**.
 ## Training on Custom Data
 
 All the notebooks in this repo make use of the <a href="https://github.com/Megvii-BaseDetection">@Megvii-BaseDetection</a> scripts for training 
-YOLOx models on custom data.
+YOLOX models on custom data.
 
 <table class="tg">
   <tr>
@@ -58,7 +58,7 @@ I'm using a few datasets to train on. This list will be updated with each added 
 ```bibtex
 @misc{zabala2022ml,
   author    = {Zabala, Francisco},
-  title     = {DS Experiments YOLOx},
+  title     = {DS Experiments YOLOX},
   journal   = {GitHub},
   year      = {2022},
   url       = {https://github.com/datasith/ds-experiments-yolox},
