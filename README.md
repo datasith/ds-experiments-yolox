@@ -7,9 +7,11 @@ including `PyTorch>=1.7`. The models and datasets download automatically from th
 latest YOLOx release.
 
 ```bash
-git clone https://github.com/Megvii-BaseDetection/YOLOX
-cd YOLOX
-pip install -r requirements.txt
+git clone https://github.com/datasith/ds-experiments-yolox
+cd ds-experiments-yolox
+git submodule init
+git submodule update
+pip install -r YOLOX/requirements.txt
 ```
 
 Alternatively, use the links provided below to open them in Google Colab.
