@@ -1,6 +1,6 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-datasets/SKU110K_fixed/*
-yolov5
+YOLOX
+datasets
 *.jpg
 *.jpeg
 *.png
